@@ -69,7 +69,7 @@ INSTALLED_APPS = (
     'django.contrib.admin',
     'django.contrib.admindocs',
     'compressor',
-    'articles',
+#    'articles',
     'gravatar',
     'flug.website',
 )
